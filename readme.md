@@ -25,7 +25,7 @@ The following **additional** features will be implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://im3.ezgif.com/tmp/ezgif-3-9bf722ebb9.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='./ezgif.com-gif-maker.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Notes
 
